@@ -9,7 +9,7 @@ This repository contains an **interactive Power BI dashboard** designed to analy
 The primary objectives of this project are to:  
 - Analyze sales data to understand customer behavior and business trends.  
 - Provide actionable insights using Key Performance Indicators (KPIs) such as YTD Sales, YTD Profits, YTD Quantity, and Profit Margin.  
-- Visualize data with interactive charts and dashboards for effective storytelling.
+- Visualize data with interactive charts and dashboards for effective storytelling. 
 
 ---
 
